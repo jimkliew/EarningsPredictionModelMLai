@@ -6,10 +6,6 @@ StockTwits Data To be mergered with Estimize Data
 #############################################
 https://firestream-portal.stocktwits.com/
 
-Your username is: ProfJimLiew
-
-Password is: Hotahota1
-
 #############################################
 
 Go to FireStream // "Get A BackUp" // List 
